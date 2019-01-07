@@ -9,7 +9,7 @@ You should be able to obtain the sketches after unzipping the downloaded zip fil
 ```
 <ui_id>_<sketcher_id>.jpg
 ```
-Where the ui_id corresponds to the ids from the [Rico](http://interactionmining.org/rico) dataset. And the sketcher_id are anonymized ids of the creators of the sketches from 1-4.
+Where the ui_id corresponds to the ids from the [Rico](http://interactionmining.org/rico) dataset, and sketcher_id are anonymized ids of the creators of the sketches from 1-4.
 
 Please note that the image files of the sketches are inverted greyscale files (to better fit of purpose of training neural networks), such that artist strokes are denoted by values towards white, and background are denoted by values towards black. 
 
